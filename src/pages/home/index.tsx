@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <Stack spacing="16">
           <H1>Gamble without risks.</H1>
           <Text fontSize="xl">
-            Choose the sporting event you want to bet on. Define a starting bet. We'll do the rest.
+            Choose the sporting event you want to bet on. Define a starting bet. We will do the rest.
           </Text>
           <HStack>
             <Input placeholder="Équipe 1" />
